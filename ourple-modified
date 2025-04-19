@@ -149,7 +149,7 @@
     "spec": 2,
     "background": {
         "url": "https://raw.githubusercontent.com/clomboxd/discord-themes/refs/heads/main/Screenshot_20250419_142300_Edge.jpg",
-        "alpha": 0.1,
+        "alpha": 0.5,
         "color": "#2b0c4a"
     }
     }
