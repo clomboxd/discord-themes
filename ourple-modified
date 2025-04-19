@@ -1,10 +1,10 @@
 {
-    "name": "It's Ourple!!",
-    "description": "me when i fuckin ourple",
+    "name": "It's Ourple!!!",
+    "description": "modified teat version",
     "authors": [
         {
-            "name": "KKing",
-            "id": "Noneya"
+            "name": "",
+            "id": ""
         }
     ],
     "semanticColors": {
@@ -148,7 +148,7 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://i.imgur.com/oQ8scyF.jpg",
+        "url": "https://raw.githubusercontent.com/clomboxd/discord-themes/refs/heads/main/Screenshot_20250419_142300_Edge.jpg?token=GHSAT0AAAAAADCPVHFGQOVV5QP6H67IK4TY2ADSYAA",
         "alpha": 0.5,
         "color": "#081924"
     }
